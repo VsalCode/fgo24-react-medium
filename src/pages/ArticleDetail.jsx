@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import Navbar from "../components/Navbar";
 import { useParams } from "react-router-dom";
 
 const ArticleDetail = () => {
@@ -23,7 +22,6 @@ const ArticleDetail = () => {
 
   return (
     <main>
-      <Navbar />
       <section className="mt-25 flex items-center justify-center">
         {article.map((item) => (
           <div key={item.id} className="w-200 shadow p-7 flex flex-col gap-7">
