@@ -5,7 +5,7 @@ In This project i create a medium clone web, to learn how use navigate and use p
 ## Preview
 
 #### Home Preview
-![Preview](./src/assets/home.png)
+![Preview](./src/assets/image.png)
 
 #### Article Detail
 ![Preview](./src/assets/article.png)
