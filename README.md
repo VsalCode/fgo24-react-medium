@@ -1,10 +1,14 @@
 # Medium Clone
 
-In This project i create a clone medium web, to learn how use navigate and use params work
+In This project i create a medium clone web, to learn how use navigate and use params works
 
 ## Preview
 
-![Preview](./src/assets/image.png)
+#### Home Preview
+![Preview](./src/assets/home.png)
+
+#### Article Detail
+![Preview](./src/assets/article.png)
 
 ## How To Run This Project
 

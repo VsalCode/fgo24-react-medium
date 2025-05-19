@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -5,9 +6,9 @@ const Navbar = () => {
       <div>
         <img className="w-35" src="/src/assets/logo.png" alt="" />
       </div>
-      <div className="flex items-center gap-5">
-        <p>Sign In</p>
-        <p>Sign Up</p>
+      <div className="flex items-center gap-10 font-semibold">
+        <Link to="/">Sign In</Link>
+        <Link to="/">Sign Up</Link>
       </div>
     </nav>
   );
