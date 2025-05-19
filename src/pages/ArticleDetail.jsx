@@ -1,8 +1,4 @@
 import { useEffect, useState } from "react";
-<<<<<<< HEAD
-=======
-import Navbar from "../components/Navbar";
->>>>>>> e3cc1824b245b1c14ca3dfcc30c42735d0dd8ab9
 import { useParams } from "react-router-dom";
 
 const ArticleDetail = () => {
